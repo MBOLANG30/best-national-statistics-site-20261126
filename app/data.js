@@ -72,10 +72,10 @@
     economyFacts: [
       { label: "PDB per kapita", value: "Rp78,6 jt", sub: "2024, harga berlaku", source: SRC.bps2024 },
       { label: "Rasio Gini", value: "0,379", sub: "Maret 2024 — ketimpangan pengeluaran", source: SRC.bps2024 },
-      { label: "Ekspor", value: "US$264,7 M", sub: "2024 (fob)", source: SRC.bps2024 },
-      { label: "Cadangan devisa", value: "US$155,7 M", sub: "akhir 2024", source: "Bank Indonesia, 2024" },
-      { label: "Pekerja informal", value: "59,2%", sub: "dari pekerja, Agustus 2024", source: SRC.bps2024 },
-      { label: "UMR tertinggi", value: "Rp5,64 jt", sub: "UMP DKI Jakarta 2025", source: "Pemprov DKI Jakarta, 2024" }
+      { label: "Ekspor", value: "US$264,7 miliar", sub: "2024 (fob)", source: SRC.bps2024 },
+      { label: "Cadangan devisa", value: "US$155,7 miliar", sub: "akhir 2024", source: "Bank Indonesia, 2024" },
+      { label: "Pekerja informal", value: "58,0%", sub: "dari pekerja, Agustus 2024", source: SRC.bps2024 },
+      { label: "UMR tertinggi", value: "Rp5,40 jt", sub: "UMP DKI Jakarta 2025", source: "Pemprov DKI Jakarta, 2024" }
     ],
 
     /* Health, 2019–2024 (BPS, World Bank, Kemenkes). */
